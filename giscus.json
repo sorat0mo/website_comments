@@ -1,8 +1,4 @@
 {
-  "origins": [
-    "https://blog.karsten.ooo"
-  ],
-  "originsRegex": [
-    "https:\/\/write.as\/karsten.*"
-  ]
+  "origins": ["https://blog.karsten.ooo"],
+  "originsRegex": ["https:\/\/write.as\/karsten.*"]
 }
